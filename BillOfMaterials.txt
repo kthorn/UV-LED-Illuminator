@@ -1,0 +1,40 @@
+Part	Supplier	Part No.	Number	Unit	Cost	Total	Notes
+Illuminator Assembly							
+UV LED	Crystal IS	OPTAN280K	6	ea	$390.00	"$2,340.00"	
+LED / Objective Mount	3D print		1	ea		$0.00	
+Plate to secure LED	Shapeways		6	ea	$6.50	$39.00	LED Cooling Tubing Cap 2 printed in frosted Ultra detail
+0-80 Press fit inserts	McMaster-Carr	92395A109	1	pk	$8.50	$8.50	
+0-80 screws	McMaster-Carr	92949A312	1	pk	$7.29	$7.29	
+"Tubing for water cooling (1/16"" OD)"	McMaster-Carr	89895K611	1	foot	$9.94	$9.94	
+Heat sink compund	McMaster-Carr	3883K24	1	tube	$11.70	$11.70	
+							
+LED Controller							
+BNC Jack	Digi-Key	A32339-ND	1	ea	$2.81	$2.81	
+Cable connector	Digi-Key	HPL14H-ND	1	ea	$3.62	$3.62	
+IDC connector	Digi-Key	HKC14S-ND	3	ea	$0.44	$1.32	
+Jack for pump	Digi-Key	CP-6-ND	2	ea	$2.33	$4.66	
+ProtoShield	Sparkfun	DEV-07914	1	ea	$9.95	$9.95	
+MOSFET 60V 30A	Sparkfun	COM-10213	2	ea	$0.95	$1.90	
+Arduino Uno	Sparkfun	DEV-11021	1	ea	$29.95	$29.95	
+12V Power Supply	Sparkfun	TOL-11296	1	ea	$9.95	$9.95	
+Molex socket						$0.00	Cut up disk drive cable from PC power supply
+10 kOhm resistor			2	ea			
+39 Ohm resistor			6	ea			
+4-40 Press-in insert	McMaster-Carr	92395A315	1	pk	$6.50	$6.50	
+4-40 screws						$0.00	
+Small piece of flat ribbon cable						$0.00	
+Housing	3D print					$0.00	
+							
+Cable to LEDs							
+Ribbon cable	Digi-Key	MC14F-10-ND	1	10'	$9.97	$9.97	
+LED connectors	Digi-Key	ED2150-ND	6	ea	$1.52	$9.12	
+							
+Pump							
+Housing	3D print					$0.00	
+Pump	Simply Pumps	MM0312	1	ea	$34.00	$34.00	
+Cable to Arduino	Digi-Key	839-1008-ND	1	ea	$5.50	$5.50	
+"Panel Mount Female Luer x 1/8"" barb"	Value Plastics	FTLLB230-1	1	pk/100	$30.40	$30.40	
+Nuts for Luer	McMaster-Carr	94812A117	1	pk	$6.09	$6.09	
+Bottle	VWR	16125-107	1	pk/6	$111.57	$111.57	
+"1/8"" barb x Male Luer"	Value Plastics	MTLL230-9	1	pk/100	$18.90	$18.90	
+"1/8"" Tygon tubing"						$0.00	
