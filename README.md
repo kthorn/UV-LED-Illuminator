@@ -1,6 +1,7 @@
 # UV LED Illuminator
 ![Image of Illuminator](UV_illuminator_sm.jpg)
-This repository contains files for constructing the UV LED illuminator described on my blog. It consists of six UV LEDs arranged around an objective to illuminate the focal plane. 
+
+This repository contains files for constructing an objective mounted UV epi-illuminator. It consists of six UV LEDs arranged around an objective to illuminate the focal plane. We have used it for excitation with 280 nm LEDs, but it can also be used for exciting fluorescence using visible wavelength LEDs. For UV LEDs the main advantage is that it does not require that the objective transmit the UV wavelengths for excitation. For visible LEDs it provides a simple and compact way to illuminate a sample that does not require a dichroic mirror or filter cube.
 
 # What the files are
 * [BillOfMaterials.txt: Parts list for project](BillOfMaterials.txt)
