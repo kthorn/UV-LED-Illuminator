@@ -1,5 +1,5 @@
 # UV LED Illuminator
-This repository contains files for constructing the UV LED illuminator described on my blog. It consists of six UV LEDs arranged around an objective to illuminate the focal plane. !(UV_illuminator_sm.jpg)
+This repository contains files for constructing the UV LED illuminator described on my blog. It consists of six UV LEDs arranged around an objective to illuminate the focal plane. ![Image of Illuminator](UV_illuminator_sm.jpg)
 
 # What the files are
 * [BillOfMaterials.txt: Parts list for project](BillOfMaterials.txt)
